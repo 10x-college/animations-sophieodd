@@ -1,0 +1,59 @@
+:root{
+    --white:#fff;
+    --black:#000;
+
+    --brown-60:#AE9B84;
+    --brown-65:#B8A893;
+    --brown-70:#C2B4A3;
+    --brown-80:#D6CDC2;
+    --brown-90:#EBE6E0;
+    --brown-95:#F5F3F0;
+    --brown-97:#F9F8F6;
+    --brown-99:#FDFDFC;
+
+    --dark-06:#0F0F0F;
+    --dark-10:#1A1A1A;
+    --dark-12:#1F1F1F;
+    --dark-15:#262626;
+    --dark-20:#333333;
+    --dark-25:#404040;
+    --dark-30:#4D4D4D;
+    --dark-35:#595959;
+
+    --grey-40:#676665;
+    --grey-50:#81807E;
+    --grey-70:#B3B3B2;
+    --grey-80:#CCCCCC;
+    --grey-90:#E6E6E6;
+    --grey-95:#F2F2F2;
+    --grey-97:#F7F7F7;
+    --grey-99:#FCFCFC;
+
+    --font-roboto:'Roboto', sans-serif;
+    --font-roboto-mono: 'Roboto Mono', monospace;
+    --heading-color:var(--white);
+    
+    --heading-h1-size:48px;
+    --heading-h1-weight:500;
+    --heading-h2-size:var(--heading-h1-size);
+    --heading-h2-weight:var(--heading-h1-weight);
+    --heading-h3-size:24px;
+    --heading-h3-weight:500;
+
+    --primary-text-size:18px;
+    --primary-text-weight:400;
+    --primarty-text-color:var(--grey-40);
+
+    --stat-number:50px;
+    --button-text-size:18px;
+
+    --button-radius:12px;
+    --collection-item-label-color:var(--grey-50);
+    --collection-item-label-size:18px;
+    --collection-item-color:var(--grey-80);
+    --collection-item-size:20px;
+    --collection-item-weight:500;
+
+    --section-border-radius:20px;
+    --section-border-color:var(--dark-15);
+}
