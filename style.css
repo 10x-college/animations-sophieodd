@@ -31,10 +31,18 @@
 
     --font-roboto:'Roboto', sans-serif;
     --font-roboto-mono: 'Roboto Mono', monospace;
+    --heading-color:var(--white);
     
     --heading-h1-size:48px;
     --heading-h1-weight:500;
-
     --heading-h2-size:var(--heading-h1-size);
     --heading-h2-weight:var(--heading-h1-weight);
+    --heading-h3-size:24px;
+    --heading-h3-weight:500;
+
+    --primary-text-size:18px;
+    --primary-text-weight:400;
+    --primarty-text-color:var(--grey-40);
+
+    --stat-number:50px;
 }
