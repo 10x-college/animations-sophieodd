@@ -45,7 +45,15 @@
     --primarty-text-color:var(--grey-40);
 
     --stat-number:50px;
+    --button-text-size:18px;
 
     --button-radius:12px;
-    
+    --collection-item-label-color:var(--grey-50);
+    --collection-item-label-size:18px;
+    --collection-item-color:var(--grey-80);
+    --collection-item-size:20px;
+    --collection-item-weight:500;
+
+    --section-border-radius:20px;
+    --section-border-color:var(--dark-15);
 }
